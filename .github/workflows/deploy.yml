@@ -1,4 +1,4 @@
-echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+echo "SESSION_ID ='levanter_12a434e64eebd34e359ebb73b0270eb0c7'
 PREFIX = .
 STICKER_PACKNAME = LyFE
 ALWAYS_ONLINE = false
